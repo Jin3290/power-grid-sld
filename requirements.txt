@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+db-sqlite3
+pyjwt
+python-multipart
+pytest
+httpx
+python-jose[cryptography]
+passlib[bcrypt]
