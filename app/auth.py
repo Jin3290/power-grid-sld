@@ -9,7 +9,7 @@ from .database import get_db
 from .models import User
 
 # Configurazione JWT
-SECRET_KEY = "your-secret-key-here"
+SECRET_KEY = ""
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
