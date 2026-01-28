@@ -1,6 +1,6 @@
 # Power Grid SLD Backend Service
 
-A simplified backend service for managing Single Line Diagram (SLD) components of a power grid.
+A backend service for managing Single Line Diagram (SLD) components of a power grid.
 
 ## Features
 
